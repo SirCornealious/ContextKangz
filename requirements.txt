@@ -1,0 +1,3 @@
+# ContextKangz dependencies
+# No external pip-installable packages needed yet (uses Python stdlib + Tkinter).
+# If you add any (e.g., for extras), pip install -r requirements.txt here.
